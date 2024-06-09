@@ -9,7 +9,7 @@
         user: 'U002',
         penaltyStatus: 'Unpaid',
       },
-
+ 
       {
         offenseDetailID: 'OFD002',
         offenseDateTime: new Date(),
