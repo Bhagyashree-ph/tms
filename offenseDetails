@@ -1,0 +1,23 @@
+{
+      {
+        offenseDetailID: 'OFD001',
+        offenseDateTime: new Date(),
+        place: 'Bangalore',
+        image: null,
+        registrationID: 'KA 32 AB 9221',
+        offenseID: 'OF003',
+        user: 'U002',
+        penaltyStatus: 'Unpaid',
+      },
+
+      {
+        offenseDetailID: 'OFD002',
+        offenseDateTime: new Date(),
+        place: 'Bangalore',
+        image: null,
+        registrationID: 'KA 32 AB 9221',
+        offenseID: 'OF003',
+        user: 'U002',
+        penaltyStatus: 'Unpaid',
+      }
+}
