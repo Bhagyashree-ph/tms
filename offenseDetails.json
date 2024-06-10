@@ -1,4 +1,4 @@
-{
+[
       {
         offenseDetailID: 'OFD001',
         offenseDateTime: new Date(),
@@ -20,4 +20,4 @@
         user: 'U002',
         penaltyStatus: 'Unpaid',
       }
-}
+]
