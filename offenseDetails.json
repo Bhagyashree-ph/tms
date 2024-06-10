@@ -1,7 +1,7 @@
 [
       {
         "offenseDetailID": "OFD001",
-        "offenseDateTime": new Date(),
+        "offenseDateTime": "12/05/2024",
         "place": "Bangalore",
         "image": null,
         "registrationID": "KA 32 AB 9221",
@@ -12,7 +12,7 @@
  
       {
         "offenseDetailID": "OFD002",
-        "offenseDateTime": new Date(),
+        "offenseDateTime": "12/05/2024",
         "place": "Bangalore",
         "image": null,
         "registrationID": "KA 32 AB 9221",
