@@ -7,7 +7,7 @@
         "registrationID": "KA 32 AB 9221",
         "offenseID": "OF003",
         "user": "U002",
-        "penaltyStatus": 800.0
+        "penaltyStatus": "Unpaid"
       },
  
       {
@@ -31,5 +31,57 @@
         "offenseID": "OF003",
         "user": "U002",
         "penaltyStatus": "Unpaid"
-      }
+      },
+
+    {
+        "offenseDetailId": "OFD010",
+        "dateTime": 1718468036134,
+        "place": "Banaglore",
+        "img": "null",
+        "offense": {
+            "offenseId": "OF001",
+            "offenseName": "No License",
+            "vehicleType": "Two Wheeler",
+            "penalty": 800.0
+        },
+        "registration": {
+            "registrationID": "TN 03 AB 1234",
+            "vehicle": {
+                "vehicleID": 7890,
+                "engineNumber": "EN123",
+                "chassisNumber": "CH123",
+                "vehicleType": "Bike",
+                "vehicleColor": "Red",
+                "fuelUsed": "Petrol",
+                "manufacturDate": 1717093800000,
+                "manufacturerName": "TVS",
+                "variant": "TVS",
+                "model": "TVS"
+            },
+            "owner": {
+                "ownerId": "1010",
+                "idType": "Aadhar card",
+                "firstName": "Dhivya",
+                "lastName": "S",
+                "dateOfBirth": 1716143400000,
+                "gender": "Female",
+                "phoneNumber": "+91 8765432109",
+                "address": "Madurai",
+                "pincode": 876543,
+                "occupation": "Jdev"
+            },
+            "registrationDate": 1718303400000
+        },
+        "user": {
+            "userId": "U002",
+            "userName": "Bhagya",
+            "password": "Bhagya@123",
+            "email": "bhagyshreeph12@gmail.com",
+            "role": {
+                "roleName": "Clerk",
+                "roleDesc": "One who can raise offense"
+            }
+        },
+        "penaltyStatus": "paid"
+    }
 ]
